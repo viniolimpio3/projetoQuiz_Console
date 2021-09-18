@@ -1,0 +1,13 @@
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.exe
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.deps.json
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.runtimeconfig.json
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.runtimeconfig.dev.json
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.dll
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\bin\Debug\netcoreapp3.1\projetoQuiz_n2_Console.pdb
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.csproj.AssemblyReference.cache
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.AssemblyInfoInputs.cache
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.AssemblyInfo.cs
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.csproj.CoreCompileInputs.cache
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.dll
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.pdb
+C:\Users\vinio\csharp\projetoQuiz_n2_Console\projetoQuiz_n2_Console\obj\Debug\netcoreapp3.1\projetoQuiz_n2_Console.genruntimeconfig.cache
